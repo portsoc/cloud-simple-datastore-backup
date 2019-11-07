@@ -6,4 +6,4 @@ This simple script, when completed with your prepared bucket name, initiates an 
 ## todo
 
 * it might be nice to make bucket a command-line parameter
-* it might also be nice to store the bucket identifier in the datastore so we can run it without a bucket identifier
+* it might also be nice to store the bucket name in the datastore so we can run it without a bucket name
