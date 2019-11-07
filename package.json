@@ -1,0 +1,11 @@
+{
+  "name": "cloud-simple-datastore-backup",
+  "version": "1.0.0",
+  "description": "a simple Node.js script that initiates a datastore backup",
+  "main": "index.js",
+  "author": "Jacek Kopecky <jacek@jacek.cz>",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^5.5.1"
+  }
+}
