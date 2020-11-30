@@ -6,6 +6,6 @@
   "author": "Jacek Kopecky <jacek@jacek.cz>",
   "license": "ISC",
   "dependencies": {
-    "google-auth-library": "^5.5.1"
+    "google-auth-library": "^6.1.3"
   }
 }
